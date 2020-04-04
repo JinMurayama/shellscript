@@ -1,0 +1,23 @@
+{
+                 "Changes": [ {
+                            "Action": "CREATE",
+                            "ResourceRecordSet": {
+  				 "Name": "最初の要素はコメント↓にドメインを入力",
+                                 "Name": "",
+                                 "Type": "MX",
+                                 "TTL": 600,
+                                 "ResourceRecords": [{"Value": ""}]
+			   }},
+{
+	 		    "Action": "CREATE",
+                            "ResourceRecordSet": {
+                                 "Name": "最初の要素はコメント↓にドメインを入力",
+                                 "Name": "",
+                                 "Type": "TXT",
+                                 "TTL": 600,
+                                 "ResourceRecords": [{"Value": ""}]
+
+			   }}
+			    
+]
+}
